@@ -4,11 +4,13 @@ title: "arm-data-dictionary"
 
 This is a Quarto website.
 
-y
+Data file list
 
-new change
+-   gapminder_data.csv
 
-change 3
+-   hgt_wgt.csv
+
+-   dig_hub.csv
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
