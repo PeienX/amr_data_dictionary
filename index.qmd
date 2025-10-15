@@ -12,8 +12,9 @@ Data file list
 
 -   dig_hub.csv
 
+-   New merged change - conflict resolution!
 
-- New merged change - conflict resolution! 
+- added new chnage 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
